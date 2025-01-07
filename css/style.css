@@ -1,0 +1,54 @@
+@charset "utf-8";
+header {width:1185px; height:160px; margin:0 auto;}
+#logo {width:220px; height:100px; float:left; margin:35px 20px 0 10px;}
+#logo > img {width:100%; height:100%}
+#login {width:295px; height:30px; float:right; margin:10px 10px 0 0px;}
+#login > ul {font-size:12px; color:#666;}
+#login > ul > li {float:left; margin:0 5px;}
+#login > ul > li > a {text-decoration:none; color:#666;}
+
+nav {width:920px; height:40px; float:right; margin: 50px 0 0 10px; }
+nav > ul {font-size:19px; color:#666;}
+nav > ul > li {float:left; margin:0 40px;}
+nav > ul > li > a {text-decoration:none; color:#000;}
+nav > ul > li > a:hover {color:blue;}
+
+#slider {width:1475px; height:560px; margin:0 auto; }
+
+section {width:1280px; height:405px; margin:0 auto; }
+#news {width:345px; height:155px; float:left; margin:30px 0 0 35px; }
+#news table {font-size:12px; margin:10px 0 0 0px;}
+#news table a {height:25px; text-decoration:none; color:#000; margin:10px 0 0 0px;}
+
+#icon {width:455px; height:155px; float:left; margin:30px 0 0 35px; }
+#icon > .iconbox {width:75px; height:75px; float:left; margin:30px 0 0 13px; }
+#icon > .iconbox > a > img {width:65px; height:50px;}
+#icon > .iconbox > span > a {color:#666; display:block; width:100%; text-align:center; text-decoration:none;}
+
+
+#brand {width:330px; height:155px; float:left; margin:30px 0 0 35px; }
+#brand > p {font-size:12px; margin:10px 0 0 0px;}
+#brand > p > a {color:#666; text-decoration:none; margin:10px 0 0 0px;}
+#brand > h4 {font-size:15px; margin:10px 0 0 0px;}
+#brand > h4 > a {color:#333; text-decoration:none;} 
+
+#promotion {width:345px; height:150px; float:left; margin:30px 0 0 35px; }
+#promotion > p > a {margin:10px 0 0 0px; color:#666; font-size:12px; float:left; width:200px; height:70px; text-decoration:none;}
+#promotion > a > img {float:right; width:110px; height:100px;}
+
+#camp {width:455px; height:150px; float:left; margin:30px 0 0 35px; }
+#camp > p > a {margin:10px 0 0 0px; color:#666; font-size:12px; text-decoration:none; float:left; width:200px; height:70px; }
+#camp > a > img {float:right; width:170px; height:100px;}
+
+#store {width:330px; height:150px; float:left; margin:30px 0 0 35px; }
+#store > p > a {font-size:12px; color:#666; text-decoration:none; float:left; width:200px; height:70px; margin:10px 0 0 0px;}
+#store > a > img {float:right; width:110px; height:100px;}
+
+
+footer {width:100%; height:145px; margin:0 auto;}
+#box {width:1240px; height:130px; margin:10px auto; }
+footer > #box > ul {width:1100px; height:50px; float:left; margin:20px 0 0 40px; color:#666;}
+footer > #box > ul > li {float:left; font-size:12px; margin:5px 10px;}
+footer > #box > ul > li > a {text-decoration:none; color:#666;}
+
+footer > #box > p {float:left; width:700px; height:50px; line-height:150%; margin:10px 0 0 40px; font-size:12px; color:#666;}
